@@ -16,12 +16,12 @@ A node.js application that allows the user to write a series of notes that can b
 ## Installation Instructions
 
 Clone the repository for this project. 
-Install npm packages using (npm install) to run the application.
-create a .env file and enter database name, database username and password into respective lines in 
-DB_NAME=''
-DB_USER=''
-DB_PW=''
-Open the command line terminal for the application.
+Install npm packages using (npm install) to run the application.  
+create a .env file and enter database name, database username and password into respective lines in  
+DB_NAME=''  
+DB_USER=''  
+DB_PW=''  
+Open the command line terminal for the application.  
 
 ## Test
 enter the mysql command line and enter source db/schema.sql
