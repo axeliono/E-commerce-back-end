@@ -2,12 +2,12 @@
 
 ## Table of Contents:
 
--[Description](#description)
--[Installation Instructions](#installation-instructions)
--[Test](#test)
--[Images](#images)
--[Contributors](#contributors)
--[Questions](#questions)
+-[Description](#description)  
+-[Installation Instructions](#installation-instructions)  
+-[Test](#test)  
+-[Images](#images)  
+-[Contributors](#contributors)  
+-[Questions](#questions)  
 
 ## Description
 
@@ -24,14 +24,14 @@ DB_PW=''
 Open the command line terminal for the application.  
 
 ## Test
-enter the mysql command line and enter source db/schema.sql
-return to command line 
-enter npm run seed and then npm start
+enter the mysql command line and enter source db/schema.sql  
+return to command line  
+enter npm run seed and then npm start  
 
 ## Video
 
-Video of completed application
-![Video](./Develop/public/assets/images/note-taker-pic.jpg)
+Video of completed application  
+![Video](./Develop/public/assets/images/note-taker-pic.jpg)  
 
 ## Contributors
 
@@ -39,7 +39,7 @@ Chandler Green
 
 ## Questions
 
-Here are my email address and Github username if there are any questions
+Here are my email address and Github username if there are any questions  
 
-email: chandlergreen1997@gmail.com
-Github: (https://github.com/axeliono)
+email: chandlergreen1997@gmail.com  
+Github: (https://github.com/axeliono)  
