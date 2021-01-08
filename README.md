@@ -31,7 +31,7 @@ enter npm run seed and then npm start
 ## Video
 
 Video of completed application  
-![Video](./Develop/public/assets/images/note-taker-pic.jpg)  
+![Video]https://drive.google.com/file/d/1bQdBaiJkPySJ4ZfD-Z24K9JVxLKFdB--/view
 
 ## Contributors
 
